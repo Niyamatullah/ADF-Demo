@@ -1,0 +1,15 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADF-DEV-ENVNMT"
+		},
+		"ls_adfdevstrg_properties_typeProperties_connectionString_secretName": {
+			"value": "secret-adf-dev-strg"
+		},
+		"ls_kv_adfdev_properties_typeProperties_baseUrl": {
+			"value": "https://KV-Dev-ADF1.vault.azure.net/"
+		}
+	}
+}
