@@ -1,0 +1,9 @@
+{
+	"name": "ADF-DEV-ENVNMT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7048009-31cd-412f-b4e3-4e23c2fcc6a0",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
